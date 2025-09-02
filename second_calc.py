@@ -6,8 +6,3 @@ seconde=int(input("entre all seconde :\n"))
 #print(hours)
 #print(seconde)
 print(f"{seconde//86400} D {seconde%86400//3600} H {seconde%3600}S")
-
-
-
-
-
