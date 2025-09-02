@@ -1,6 +1,6 @@
-hour=input("how much munite\n")
-hours=int(hour)
-munite=hours%60
-hours_1=hours//60
-print("hours is "+str(hours_1))
+time=input("how much munite\n")
+time_int=int(time)
+hours=time_int//60
+munite=time_int%60
+print("hours is "+str(hours))
 print("munite is "+str(munite))
