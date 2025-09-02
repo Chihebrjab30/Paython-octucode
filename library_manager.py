@@ -25,5 +25,3 @@ if donate in library:
     library.remove(donate)
 print("\nYour library",library)
 print("\nYour wish list",wish_list)
-
-
