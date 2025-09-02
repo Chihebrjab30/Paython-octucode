@@ -22,13 +22,3 @@ elif choose2==computer.lower():
     print("I won ✅")
 else :
     print("I lost ❌")
-
-
-
-
-
-
-
-
-
-
