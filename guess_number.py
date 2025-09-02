@@ -8,4 +8,3 @@ elif guess==str(number):
     print(f"Good guessed number is {number}")
 else:
     print(f"The guess is incorrect. The correct number is {number}")
-    
