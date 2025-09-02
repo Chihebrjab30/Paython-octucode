@@ -60,4 +60,3 @@ computer=="scissors" or user=="paper" and computer=="rock" or user=="scissors" a
 else:
     print(f"you lose because {computer} wins the {user}")
 
-
